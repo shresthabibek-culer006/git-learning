@@ -9,3 +9,4 @@ Learning Git and Github for fun.
 
 ## Progress
 - Completed first PR merge!
+- Completed Second PR merge!
